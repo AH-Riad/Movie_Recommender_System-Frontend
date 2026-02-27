@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd0e6740-9520-44bf-9c97-5aaa0973be7b" name="Changes" comment="Creating RecommendationFfunction" />
+    <list default="true" id="cd0e6740-9520-44bf-9c97-5aaa0973be7b" name="Changes" comment="Creating RecommendationFunction">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772183849421</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Creating RecommendationFunction">
+      <option name="closed" value="true" />
+      <created>1772184250477</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1772184250477</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +232,8 @@
     <MESSAGE value="Using button" />
     <MESSAGE value="Creating Recommendation function" />
     <MESSAGE value="Creating RecommendationFfunction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating RecommendationFfunction" />
+    <MESSAGE value="Creating RecommendationFunction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating RecommendationFunction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
