@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd0e6740-9520-44bf-9c97-5aaa0973be7b" name="Changes" comment="Using selectbox">
+    <list default="true" id="cd0e6740-9520-44bf-9c97-5aaa0973be7b" name="Changes" comment="Using button">
+      <change afterPath="$PROJECT_DIR$/similarity.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772181327754</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Using button">
+      <option name="closed" value="true" />
+      <created>1772181640608</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772181640608</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Using button">
+      <option name="closed" value="true" />
+      <created>1772181647783</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772181647783</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,7 +164,8 @@
     <MESSAGE value="Checking..." />
     <MESSAGE value="Uploading pickle" />
     <MESSAGE value="Using selectbox" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using selectbox" />
+    <MESSAGE value="Using button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using button" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
