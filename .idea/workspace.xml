@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd0e6740-9520-44bf-9c97-5aaa0973be7b" name="Changes" comment="Layout: st.column">
-      <change afterPath="$PROJECT_DIR$/similarity.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="cd0e6740-9520-44bf-9c97-5aaa0973be7b" name="Changes" comment="requirementsForDeployment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,7 +224,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772193339461</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Similarity.pkl">
+      <option name="closed" value="true" />
+      <created>1772208753636</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1772208753636</updated>
+    </task>
+    <task id="LOCAL-00020" summary="requirementsForDeployment">
+      <option name="closed" value="true" />
+      <created>1772208799112</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1772208799112</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,17 +274,8 @@
     <MESSAGE value="Creating RecommendationFunction" />
     <MESSAGE value="Fetching poster using Movie_id" />
     <MESSAGE value="Layout: st.column" />
-    <option name="LAST_COMMIT_MESSAGE" value="Layout: st.column" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Similarity.pkl" />
+    <MESSAGE value="requirementsForDeployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="requirementsForDeployment" />
   </component>
 </project>
