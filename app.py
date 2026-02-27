@@ -6,7 +6,11 @@ movies_list = movies_list["title"].values
 
 st.title("Movie Recommendation System")
 
-option = st.selectbox(
+selected_movie_names = st.selectbox(
     'Which movie do you like best?',
     movies_list)
-'You selected: ', option
+'You selected: ', selected_movie_names
+
+if st.button("Recommend"):
+    recommend(selected_movie_names)
+    st.write(selected_movie_names)
