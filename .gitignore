@@ -18,12 +18,12 @@ env/
 .ipynb_checkpoints/
 
 # Large data / ML files
-*.pkl
 *.h5
 *.csv
 *.zip
 *.tar.gz
 *.npy
+*.venv
 
 # IDE / editor files
 .idea/
